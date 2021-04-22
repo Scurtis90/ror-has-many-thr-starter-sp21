@@ -4,6 +4,10 @@ export const MainHead = styled.h1`
   color: green;
   font-size: 12px;
 `
+export const MainP = styled.p`
+  font-size: 45px;
+  margin-bottom: 30px;
+`
 export const SecHead = styled(Header)`
   color: red;
   background: yellow;
